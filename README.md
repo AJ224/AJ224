@@ -6,13 +6,8 @@ AJ224/AJ224 is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-<!-- Header -->
-<p align="center">
-  <img src="https://i.imgur.com/5W5WR8l.png" alt="Header" />
-</p>
-
 <!-- Introduction -->
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Abhinandan 👋</h1>
 <p align="center">[One-line description of yourself]</p>
 
 <!-- Social media badges -->
