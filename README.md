@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AJ224&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&column=3&margin-w=15&margin-h=15&no-frame=True)
+![trophy](https://github-profile-trophy.vercel.app/?username=AJ224&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&column=3&margin-w=15&margin-h=15&no-frame=True)
 
 
 <!-- Projects section -->
