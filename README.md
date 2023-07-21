@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AJ224&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- Projects section -->
 <h2 align="center">Featured Projects</h2>
 
