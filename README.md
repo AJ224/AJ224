@@ -23,9 +23,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AJ224)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+https://github-profile-trophy.vercel.app/?username=AJ224&column=7&rank=SSS,SS,S,AAA,AA,A,B,C
 
 
 <!-- Projects section -->
