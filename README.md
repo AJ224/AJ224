@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Introduction -->
 <h1 align="center">Hi there, I'm Abhinandan 👋</h1>
-<p align="center">[One-line description of yourself]</p>
+<p align="center">Techgeek</p>
 
 <!-- Social media badges -->
 <p align="center">
