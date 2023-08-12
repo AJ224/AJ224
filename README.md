@@ -24,8 +24,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AJ224&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&column=3&margin-w=15&margin-h=15&no-frame=True)
-
-
+<!--
 <!-- Projects section -->
 <h2 align="center">Featured Projects</h2>
 
@@ -37,7 +36,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 <h3 align="center"><a href="[Project #1 URL]">[Project #1 Name]</a></h3>
 <p align="center">[Short description of Project #1]</p>
-
 <!-- Project #2 -->
 <p align="center">
   <a href="[Project #2 URL]">
@@ -58,3 +56,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Footer -->
 <p align="center">Thanks for stopping by!</p>
+-->
